@@ -1,0 +1,4 @@
+[core]
+    remote = local_remote
+['remote "local_remote"']
+    url = C:\Github\local_remote_data
